@@ -35,3 +35,4 @@ public class CalcTest {
 	 assertEquals(testcaladd.add(),9);
 	
     }
+}
